@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MrSquidson Also known as Magnus
-- 👀 I’m interested in smaller coding projects, games and marketing science's
-- 🌱 I’m currently learning to code on a basic level using Python and GML
-- I also spend part of my free time running [DnD games](https://quartz.tales-from-martere.dk/)
+- 👀 I’m interested in the wonders of the universe, and the beauty of the stars...
+- 🌱 I’m currently learning more about Java, bash and SQLite
+- I also spent part of my free time running [DnD games](https://quartz.tales-from-martere.dk/) take a look at my old website if you want to... 
