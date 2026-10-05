@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MrSquidson Also known as Magnus
 - 👀 I’m interested in the wonders of the universe, and the beauty of the stars...
-- 🌱 I’m currently learning more about Java, bash and SQLite
+- 🌱 I’m currently learning more about Java and C
